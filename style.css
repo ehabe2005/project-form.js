@@ -1,0 +1,19 @@
+main{
+   margin-left: 50px;
+   margin-right: 50px;
+   
+}
+
+#forms{
+    border: 4px dashed black;
+    display: flex;
+    gap: 120px;
+    display: flex;
+   justify-content: center;
+}
+
+#form2{
+    width: 500px;
+}
+
+
